@@ -1,0 +1,4 @@
+[upstream]
+origin_type = "github"
+user_name = "bpronan"
+repo_name = "test-inject-image"
